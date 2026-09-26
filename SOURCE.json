@@ -5,7 +5,7 @@
   "source_worktree_status": [],
   "repository": "view.files-rename",
   "files_sha256": {
-    ".github/workflows/verify.yml": "f4f1f1920aa0ec16710e8cc5c6b196ff69cbe5d0fcb4bdf8c8566e949831178f",
+    ".github/workflows/verify.yml": "b737a9f83062bdb3437455e7abab0362ee806c4663fe80af564ea77a353765b3",
     "CONTEXT.md": "0a8a9ed2bd4d8d209fd03e0449c365499be0e60403ed1816d19d7a32eab7b76e",
     "LICENSING.md": "0bddd694c9d8b704519bf4b02a97cb8e0896867f1e102c3b6849c9088eb1f830",
     "README.md": "8dbe1a5dd5bf8466e30ce887f014d79c916996ed4f9cde3493b799f65ce48f9f",
